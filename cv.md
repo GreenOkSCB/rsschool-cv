@@ -1,25 +1,29 @@
-Имя и фамилия
-# Aleksandr Grinev
+# **Aleksandr Grinev**
 
-Контакты для связи
 ## Contacts
 
-- [github]()
-- telegram
-- email
-- [linkin]()
-- phone
+- ***Location:*** Saint-Petersburg, Russia
+- ***Phone:*** +7 931 5301143
+- ***E-mail:*** Greenok.scb@gmail.com
+- ***Github:*** [GreenOkSCB](https://github.com/GreenOkSCB)
 
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
+
 ## Summary
+Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
 
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
+I want to learn Front-End Development in RSSchool!
+
+
 ## Experience
-
-Владение основами:
-- JavaScript, Java, Python
+Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
+***Basics:***
+- Java, JavaScript, Python
 - Git
 - HTML, CSS
+***IDE:***
+- Visual Studio Code
+- IntelliJ IDEA
+- PyCharm
 
 Примеры кода
 ## Code examples
@@ -29,16 +33,21 @@
     примера кода на codewars
 ```
 
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
+
 ## Professional Experience
+Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
 
 Практического опыта работы программистом нет.
 
-Образование (включая пройденные курсы и тренинги)
-## Education
 
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+## Education
+- University: St. Petersburg University
+    * Faculty of psychology
+- Courses:
+    * Junior java developer (ITMO University in St. Petersburg)
+    * CS50 video course
+
 ## Languages
 
-- English: B2
+- English: B1
 - Russian: native
