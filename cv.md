@@ -31,8 +31,9 @@ My goal is to master front-end development and become a successfull IT specialis
 ## Code examples
 
 ```
-Например ссылки
-    примера кода на codewars
+function multiply(a, b){
+  return a * b
+}
 ```
 
 
