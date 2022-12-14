@@ -149,10 +149,12 @@ body {
   border-bottom: 15px solid #29a7ca;
 }
 
+
 .title__project {
   display: flex;
   align-items: center;
-  /* justify-content: center; */
+  min-width: 300px;
+  justify-content: center;
   /* align-content: center; */
   /* text-align: center; */
 }
