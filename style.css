@@ -202,21 +202,21 @@ body {
   color: rgb(38, 3, 121);
 }
 
-.github {
+/* .github {
   width: 60px;
   height: 60px;
   background-image: url("./assets/icon/github-logo.png");
   background-size: contain;
   background-repeat: no-repeat;
-}
+} */
 
-.rss-logo {
+/* .rss-logo {
   width: 121px;
   height: 45px;
   background-image: url("./assets/icon/rs_school_js.svg");
   background-size: contain;
   background-repeat: no-repeat;
-}
+} */
 
 .project-image {
     width: 300px;
