@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ALEKSANDR GRINEV</title>
     <link rel="stylesheet" href="style.css">
+    <link
+    href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap"
+    rel="stylesheet">
   </head>
   <body>
     <header class="header">
@@ -35,15 +38,15 @@
       </nav>
     </header>
     <main class="main">
-      <div class="right_side">
-        <section class="section">
+      <div class="left_side">
+        <section class="section section-foto">
           <img
             src="/assets/image/avaRSS.jpg"
             alt="foto Aleksandr Grinev"
             class="profile-foto"
           >
         </section>
-        <section class="section">
+        <section class="section" id="contacts">
           <h2 class="section-title">Contacts</h2>
           <ul class="section-list">
             <li class="section-item">Location: Saint-Petersburg, Russia</li>
@@ -67,7 +70,7 @@
             </li>
           </ul>
         </section>
-        <section class="section">
+        <section class="section" id="education">
           <h2 class="section-title">Education</h2>
           <ul class="section-list">
             <li class="section-item">
@@ -80,7 +83,7 @@
             </li>
           </ul>
         </section>
-        <section class="section">
+        <section class="section" id="languages">
           <h2 class="section-title">Languages</h2>
           <ul class="section-list">
             <li class="section-item">English: B1</li>
@@ -88,21 +91,21 @@
           </ul>
         </section>
       </div>
-      <div class="left_side">
+      <div class="right_side">
         <section class="section">
           <div class="profile-info">
             <h1>Aleksandr Grinev</h1>
             <h3>Junior Frontend Developer</h3>
           </div>
         </section>
-        <section class="section">
+        <section class="section" id="summary">
           <h2 class="section-title">Summary</h2>
           <p>
             I want to learn Front-End Development in RSSchool! My goal is to
             master front-end development and become a successfull IT specialist.
           </p>
         </section>
-        <section class="section">
+        <section class="section" id="experience">
           <h2 class="section-title">Experience</h2>
           <ul class="section-list">
             <li class="section-item">HTML</li>
@@ -112,13 +115,13 @@
             <li class="section-item">VSCode</li>
           </ul>
         </section>
-        <section class="section">
+        <section class="section" id="code-example">
           <h2 class="section-title">Code example</h2>
           <div class="code-example">
             <code> function multiply(a, b){ return a * b } </code>
           </div>
         </section>
-        <section class="section">
+        <section class="section" id="project">
             <h2 class="section-title title__project">Project</h2>
             <p class="project-info">
               <a
@@ -134,6 +137,12 @@
         </section>
       </div>
     </main>
-    <footer class="footer"></footer>
+    <footer class="footer">
+        <div class="container footer-container">
+            <div>© 2024</div>
+            <a href="https://github.com/GreenOkSCB" class="github"></a>
+            <a href="https://rs.school/courses/javascript-ru" class="rss-logo"></a>
+          </div>
+    </footer>
   </body>
 </html>
