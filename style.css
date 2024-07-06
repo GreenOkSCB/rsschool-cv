@@ -1,0 +1,10 @@
+.profile-foto {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+}
+
+.project-image {
+    width: 300px;
+}
