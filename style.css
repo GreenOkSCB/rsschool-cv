@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+  }
+  /* * {
+      outline: 1px solid greenyellow !important;
+  } */
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background: url(/assets/image/bg-img7.png) no-repeat center;
+    background-size: cover;
+    color: #ffff;
+    min-height: 100%;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1024px;
+    font-family: "Ubuntu", sans-serif;
+}
+
+  li {
+    list-style-type: none;
+}
+
+.header {
+    max-width: 1440px;
+    padding: 20px;
+}
+
+.nav_list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0;
+}
+.nav_link {
+    text-decoration: none;
+    color: #ffff;
+    font-size: 20px;
+}
+
+.nav_link:hover {
+    transition: 0.5s;
+    color: #000000;
+  }
+
+main {
+    display: flex;
+    gap: 200px;
+}
+
+.section {
+    padding: 20px;
+}
+
+.section-foto {
+    text-align: center;
+    padding: 20px;
+}
+.profile-foto {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+}
+
+a {
+    text-decoration: none;
+    color: #ffff;
+}
+a:hover {
+    transition: 0.5s;
+    color: #000000;
+}
+
+.project-image {
+    width: 300px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+  }
+
+.github {
+    width: 60px;
+    height: 60px;
+    background-image: url("./assets/icon/github-logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  .rss-logo {
+    width: 121px;
+    height: 45px;
+    background-image: url("./assets/icon/rs_school_js.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
