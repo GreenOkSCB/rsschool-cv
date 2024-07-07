@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  background: url(/assets/image/bg-img7.png) no-repeat center;
+  background: url(./assets/image/bg-img7.png) no-repeat center;
   background-size: cover;
   color: #ffff;
   min-height: 100%;
